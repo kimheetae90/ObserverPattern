@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{670F0E01-8007-2A17-1328-BD47A2E37B62}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AchievementManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Character.cs" Line="22" Column="2" />
+      <File FileName="Assets/Scripts/Observable.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/ObserverMonoBehaviour.cs" Line="71" Column="2" />
+      <File FileName="Assets/Scripts/TutorialManager.cs" Line="9" Column="20" />
+      <File FileName="Assets/Scripts/AchievementManager.cs" Line="9" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
